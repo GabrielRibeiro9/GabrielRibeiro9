@@ -2,10 +2,10 @@
 
 
 - 🧠 Sou criador do [Gerador de orcamentos](https://geradororcamento-app.onrender.com/login) e [https://github.com/GabrielRibeiro9/GeradorOrcamento-app]([link-para-o-projeto](https://github.com/GabrielRibeiro9/GeradorOrcamento-app.git))
-- 🔭 Atualmente estou trabalhando em... **[descreva seu projeto atual]**
+- 🔭 Atualmente estou trabalhando no **[Gerador de Orcamentos]**
 - 🌱 Estou aprendendo **[Java]**
 - 👯 Procuro colaborar em projetos envolvendo **[Back End, Banco de Dados]**
-- 🤔 Me pergunte sobre **[Python, Bancod de Dados SQL]**
+- 🤔 Me pergunte sobre **[Python, Banco de Dados SQL]**
 - 📫 Como me encontrar: **[gabrielrdsouza9@gmail.com]**
 
 <br/>
@@ -35,7 +35,7 @@
 ### 🌎 Me encontre por aí
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-usuario-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/gabrielribeirodesouza/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-usuario-linkedin" height="30" width="40" />
   </a>
   <a href="https://twitter.com/seu-usuario-twitter" target="blank">
@@ -43,4 +43,3 @@
   </a>
 </p>
 
-> "Sua citação favorita aqui." – Autor da Citação
